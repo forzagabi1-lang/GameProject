@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - "\u10EA\u10F0\u10D4\u10E1\u10E2"
+  - chest
+  - coin
+  - PlayerHitBox
+  - EnemyHitBox
+  - Spike
+  - Trap
+  - Door
+  - Door2
+  - StayingSpike
+  - FinalDoor
+  - FinalTrap
+  - CheckPoint
+  - Boss
+  - BlockedDoors
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Boss
+  - Area
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
